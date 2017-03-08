@@ -70,10 +70,14 @@ html, body{
 }
 
 #footer{
+	box-sizing: border-box;
+
 	position: absolute;
 	bottom: 0;
 	width: 100%;
 	height: 60px; /*腳部的高度*/
+
 	background: #EEEEEE;
+	border:pink solid 3pt;
 }
 
