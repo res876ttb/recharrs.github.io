@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article{
+
+}
+
+.header{
+	font-size: 2rem;
+	position: fixed;
+	left: 0;
+	top: 0;
+
+	margin-left: auto;
+	vertical-align: center;
+
+	height: 2.5rem;
+	line-height:auto;
+
+	background-color: black;
+	color: white;
+
+	padding: 1rem;
+	width: 100%;
+
+}
+
+.content{
+	margin-top: 4.5rem;
+	top: 5rem;
+	height: 1000px;
+	display: block;
+	border: cyan solid 12pt;	
+}
+
+.footer{
+	text-align: center;
+}
